@@ -17,7 +17,7 @@ There are two different types of data available for every apartment for sale. Th
 * *days_listed* — how many days the ad was displayed (from publication to removal).
 * *date_posted* — the publication date.
 * *floor* — the apartment floor number.
-* floors_total* — the total number of floors in the building.
+* *floors_total* — the total number of floors in the building.
 * *bike_parking* — whether there is parking for bikes or not (Boolean type).
 * *kitchen_area* — the kitchen area in square meters (sq.m.).
 * *last_price* — the price at the time when the ad was removed (dollars).
