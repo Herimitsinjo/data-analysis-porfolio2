@@ -4,7 +4,7 @@
 
 ### 1. Project description
 
-I will work with Yandex.Realty's archive of property ads for St. Petersburg, Russia, and the surrounding areas covering the past few years. I will learn how to determine the market value of real estate. My task is to define parameters. This will make it possible to create an automated system that is capable of detecting anomalies and fraud. If you want to see the project code now, click [link to the project code](https://github.com/Herimitsinjo/data-analysis-porfolio2/blob/main/Determination%20of%20the%20market%20value%20of%20real%20estate.ipynb).
+I will work with Yandex.Realty's archive of property ads for St. Petersburg, Russia, and the surrounding areas covering the past few years. I will learn how to determine the market value of real estate. My task is to define parameters. This will make it possible to create an automated system that is capable of detecting anomalies and fraud. If you want to see the project code now, click [link to the project code!](https://github.com/Herimitsinjo/data-analysis-porfolio2/blob/main/Determination%20of%20the%20market%20value%20of%20real%20estate.ipynb)
 
 There are two different types of data available for every apartment for sale. The first type is user input. The second type was calculated automatically based upon the map data. This includes distance from the city center, the airport, and the nearest park or body of water.
 
